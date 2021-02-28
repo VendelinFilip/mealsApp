@@ -1,6 +1,7 @@
 # mealsApp
 
 A new Flutter project. An app for showing and filtering recipes. Part of the Academind Udemy Flutter course.
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
 
 ## Getting Started
 
